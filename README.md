@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+[開発マニュアル](doc%2FDEVELOP_MANUAL.md)
